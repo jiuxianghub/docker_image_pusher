@@ -1,1 +1,1 @@
-fishu/redis-cluster-operator:latest
+kubernetesui/dashboard:v2.7.0
