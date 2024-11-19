@@ -1,1 +1,1 @@
-quay.io/kubernetes-ingress-controller/custom-error-pages-amd64:0.3
+quay.io/kubernetes-ingress-controller/custom-error-pages-amd64:0.4
