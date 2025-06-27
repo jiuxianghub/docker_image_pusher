@@ -1,1 +1,1 @@
-quay.io/kubernetes-ingress-controller/custom-error-pages-amd64:0.4
+arm64v8/ubuntu:18.04.5
