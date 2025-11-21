@@ -1,1 +1,1 @@
-arm64v8/ubuntu:18.04
+docker.io/library/node:16-alpine
