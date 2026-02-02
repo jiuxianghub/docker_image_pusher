@@ -1,1 +1,1 @@
-node:18-alpine
+docker pull mysql:8.0
